@@ -1,0 +1,23 @@
+.container {
+  border: 6px solid rgb(132, 147, 152);
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.flex-item {
+  color: black;
+  font-size: 2rem;
+  padding: 2rem;
+  text-align: center;
+}
+
+.flex-item.item-1 {
+  background-color: lightcoral;
+}
+
+.flex-item.item-2 {
+  background-color: lightsalmon;
+}
+.flex-item.item-3 {
+  background-color: yellow;
+}

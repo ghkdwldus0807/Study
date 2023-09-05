@@ -1,0 +1,32 @@
+.container {
+  border: 6px solid rgb(132, 147, 152);
+  display: flex;
+  flex-flow: row-reverse wrap;
+}
+
+.flex-item {
+  color: black;
+  font-size: 2rem;
+  padding: 2rem;
+  text-align: center;
+}
+
+.flex-item.item-1 {
+  background-color: lightcoral;
+}
+
+.flex-item.item-2 {
+  background-color: lightsalmon;
+}
+.flex-item.item-3 {
+  background-color: yellow;
+}
+.flex-item.item-4 {
+  background-color: greenyellow;
+}
+.flex-item.item-5 {
+  background-color: lightblue;
+}
+.flex-item.item-6 {
+  background-color: plum;
+}
